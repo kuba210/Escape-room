@@ -6,7 +6,12 @@
     text-align: right;
 }
 
-img{
+img[alt="talkie"]{
     width: 140px;
    transform: translate(0%, 570%); 
+}
+
+img[alt="Bubble"]{
+    width: 140px;
+    transform: translate(50%, 570%); 
 }
