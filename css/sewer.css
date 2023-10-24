@@ -1,8 +1,11 @@
 body{
-    background-image: url(Sewer-Maintenance.png);
+    background-image: url(/imgs/Sewer-Maintenance.png);
     background-size: cover;
 }
 
+<<<<<<< HEAD
 body sewers{
     background-color: aqua;
 }
+=======
+>>>>>>> 335db237e493c9f85035ae8d12183a5c83ccd969

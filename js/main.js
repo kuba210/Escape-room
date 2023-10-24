@@ -1,3 +1,4 @@
+
 // Set the initial time in seconds (5 minutes)
 let timeLeft = 5 * 60;
 const timerElement = document.getElementById("timer");
@@ -24,5 +25,8 @@ function updateTimer() {
         setTimeout(updateTimer, 1000); // Update the timer every 1 second
     }
 }
-        // Start the countdown when the page loads
-        updateTimer();
+
+
+
+// Start the countdown when the page loads
+updateTimer();
