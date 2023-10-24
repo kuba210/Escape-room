@@ -3,7 +3,3 @@ body{
     background-size: cover;
 }
 
-img[alt="door"] {
-    width: 14%;
-    transform: translate(590%, 110%);
-}

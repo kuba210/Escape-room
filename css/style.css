@@ -15,7 +15,7 @@ img[alt="Bubble"]{
     width: 140px;
     transform: translate(50%, 570%); 
 }
-/* 
+
 .next {
     color: black;
     border: 1px;
@@ -23,6 +23,5 @@ img[alt="Bubble"]{
     border-style: dotted;
     border-radius: 1px;
     width: 100px;
-    right: 800px;
-    
-} */
+    right: 800px; 
+}
