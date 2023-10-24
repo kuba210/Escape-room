@@ -15,7 +15,7 @@ img[alt="Bubble"]{
     width: 140px;
     transform: translate(50%, 570%); 
 }
-
+/* 
 .next {
     color: black;
     border: 1px;
@@ -25,4 +25,10 @@ img[alt="Bubble"]{
     width: 100px;
     right: 800px;
     
+} */
+
+body {
+    background-image: url(/imgs/1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
