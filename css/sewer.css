@@ -1,4 +1,9 @@
 body{
-    background-image: url(Sewer-Maintenance.png);
+    background-image: url(/imgs/Sewer-Maintenance.png);
     background-size: cover;
+}
+
+img[alt="door"] {
+    width: 14%;
+    transform: translate(590%, 110%);
 }
