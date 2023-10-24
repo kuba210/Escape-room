@@ -26,9 +26,3 @@ img[alt="Bubble"]{
     right: 800px;
     
 } */
-
-body {
-    background-image: url(/imgs/1.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
