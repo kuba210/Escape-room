@@ -27,6 +27,3 @@ function updateTimer() {
 }
 
 
-
-// Start the countdown when the page loads
-updateTimer();
